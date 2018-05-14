@@ -1,2 +1,2 @@
 # queue_stack
-Implementing stack using queue data structure
+Implementing queue using stack data structure
